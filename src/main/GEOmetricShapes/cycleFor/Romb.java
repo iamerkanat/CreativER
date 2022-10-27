@@ -24,3 +24,27 @@ public class Romb {
         }
     }
 }
+
+
+
+/*
+         R
+        RRR
+       RRRRR
+      RRRRRRR
+     RRRRRRRRR
+    RRRRRRRRRRR
+   RRRRRRRRRRRRR
+  RRRRRRRRRRRRRRR
+ RRRRRRRRRRRRRRRRR
+RRRRRRRRRRRRRRRRRRR
+ RRRRRRRRRRRRRRRRR
+  RRRRRRRRRRRRRRR
+   RRRRRRRRRRRRR
+    RRRRRRRRRRR
+     RRRRRRRRR
+      RRRRRRR
+       RRRRR
+        RRR
+         R
+ */

@@ -1,4 +1,4 @@
-package Errors;
+package errorsOfSoloLearn;
 
 public class Error1 {
     public Error1(){

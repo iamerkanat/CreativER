@@ -20,3 +20,20 @@ public class letterB {
         }
     }
 }
+
+/*
+BBBBBBBBBBB
+BB        B
+BB        B
+BB        B
+BB        B
+BBBBBBBBBBB
+BB        B
+BB        B
+BB        B
+BB        B
+BBBBBBBBBBB
+
+Process finished with exit code 0
+
+ */

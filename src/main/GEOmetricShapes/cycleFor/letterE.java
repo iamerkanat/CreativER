@@ -21,3 +21,21 @@ public class letterE {
         }
     }
 }
+
+
+/* 11:
+EEEEEEEEEEE
+EE
+EE
+EE
+EE
+EEEEEEEEEE
+EE
+EE
+EE
+EE
+EEEEEEEEEEE
+
+Process finished with exit code 0
+
+ */

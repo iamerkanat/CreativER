@@ -1,4 +1,4 @@
-package cycleFor;
+package lettersFor;
 
 import java.util.Scanner;
 

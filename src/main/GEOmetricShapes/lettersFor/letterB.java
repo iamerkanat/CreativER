@@ -1,4 +1,4 @@
-package cycleFor;
+package lettersFor;
 
 public class letterB {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package massivs;
 
 import java.util.Scanner;
-//from 10 to zero (reversed version of task3)
+//from 10 to zero (reversed version of task5v2)
 public class task5 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

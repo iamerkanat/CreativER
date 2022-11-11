@@ -9,8 +9,7 @@ public class task6 {
         int m = scan.nextInt(); //число под степенью
 
         System.out.println("Your n-number: ");
-        int n = scan.nextInt(); //число в степени
-
+        int n = scan.nextInt(); //число в степени.
 
 
         int arr[][] = new int[m][n];

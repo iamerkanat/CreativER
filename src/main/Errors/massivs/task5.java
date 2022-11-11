@@ -10,7 +10,7 @@ public class task5 {
 
         int[] arr = new int[n];
         for (int i = 0; i < n; i++) {
-            arr[i] = n - i;
+            arr[i] = n - i; //arr[0] = 10-0;
             System.out.printf("%d ", arr[i]);
         }
     }
